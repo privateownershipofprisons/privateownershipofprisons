@@ -1,0 +1,32 @@
+ body {
+    background-color: black;
+    color: white;
+  }
+
+  
+  h1 { text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+  }
+  
+  h2 { text-align: center;
+    background-color: black;
+    color: white;
+  }
+
+
+  div {
+    background-color: gray;
+    color: white;
+  }
+
+ 
+
+    img{width: 320px;
+    height: 300px;
+    text-align: center;
+padding-left: 40px;
+}
+
+
